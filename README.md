@@ -11,3 +11,9 @@
 git clone [https://github.com/Emad-AlKhorasani/PwnGuard-Pro.git](https://github.com/Emad-AlKhorasani/PwnGuard-Pro.git)
 cd PwnGuard-Pro
 pip install -r requirements.txt
+
+Usage:
+
+To scan a list of passwords, use the following command
+
+python pwnguard.py -f list.txt -t 20
