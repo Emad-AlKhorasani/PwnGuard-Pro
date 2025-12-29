@@ -16,4 +16,4 @@ Usage:
 
 To scan a list of passwords, use the following command
 
-python pwnguard.py -f list.txt -t 20
+''' python pwnguard.py -f list.txt -t 20 '''
