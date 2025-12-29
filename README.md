@@ -1,3 +1,5 @@
+![Preview](screenshot.png)
+
 # 🛡️ PwnGuard Pro
 **PwnGuard Pro** is a powerful Python CLI tool designed to enhance your digital security by checking if your passwords have been compromised in known data breaches.
 
